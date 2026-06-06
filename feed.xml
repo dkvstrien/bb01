@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BB-01</title>
+    <link>https://dkvstrien.github.io/bb01</link>
+    <description>Bayerische Landwirtschaft — Hörbeiträge für Sprachlerner.</description>
+    <language>de</language>
+    <itunes:author>BB-01</itunes:author>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <atom:link href="https://dkvstrien.github.io/bb01/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Astsäge, Rückewagentest und ein kaputter Johnny</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e001/001.mp3" length="36777741" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e001/001.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>19:36</itunes:duration>
+    </item>
+    <item>
+      <title>Stallgeschichten, Kälbergeburt und Ärger mit der Gülle</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e002/002.mp3" length="35328717" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e002/002.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>18:43</itunes:duration>
+    </item>
+    <item>
+      <title>Hecke, Holz und Schreinerei</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e003/003.mp3" length="33689805" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e003/003.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>17:45</itunes:duration>
+    </item>
+    <item>
+      <title>Streuwiesen, Mist und kaputte Heizung</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e004/004.mp3" length="29879613" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e004/004.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>16:14</itunes:duration>
+    </item>
+    <item>
+      <title>Hackholz und Holzfass</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e005/005.mp3" length="34933965" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e005/005.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>18:48</itunes:duration>
+    </item>
+    <item>
+      <title>Sturm- und Blitzbäume fällen</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e006/006.mp3" length="33447501" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e006/006.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>17:25</itunes:duration>
+    </item>
+    <item>
+      <title>Güllemixer am Radlader, Eschen am Sägewerk</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e007/007.mp3" length="33370845" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e007/007.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>18:52</itunes:duration>
+    </item>
+    <item>
+      <title>Neue Sohlen und die erste Messe</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e008/008.mp3" length="28635213" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e008/008.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>15:19</itunes:duration>
+    </item>
+    <item>
+      <title>Streuwiese, Waldrand, Güllemixer</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e009/009.mp3" length="32111949" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e009/009.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>18:10</itunes:duration>
+    </item>
+    <item>
+      <title>Wiesenwellness und die erste Gülle</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e010/010.mp3" length="31337325" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e010/010.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>17:05</itunes:duration>
+    </item>
+    <item>
+      <title>Eigenbau Güllemixer am Radlader, Härtetest im Hochbehälter</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e011/011.mp3" length="36463197" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e011/011.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>19:17</itunes:duration>
+    </item>
+    <item>
+      <title>Schnee, Baustelle und Gülle nach Grünwald</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e012/012.mp3" length="33404829" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e012/012.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>18:28</itunes:duration>
+    </item>
+    <item>
+      <title>Baggern, Holzen, Ministerium</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e013/013.mp3" length="26570997" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e013/013.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>13</itunes:episode>
+      <itunes:duration>14:54</itunes:duration>
+    </item>
+    <item>
+      <title>Tiefbau, Maibaum, meet and greet</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e014/014.mp3" length="33970653" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e014/014.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>14</itunes:episode>
+      <itunes:duration>19:27</itunes:duration>
+    </item>
+    <item>
+      <title>Gülle, Baustelle, Sägewerk, Bauma</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e015/015.mp3" length="30125037" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e015/015.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>15</itunes:episode>
+      <itunes:duration>16:22</itunes:duration>
+    </item>
+    <item>
+      <title>Bauma München, Superlative und wunde Füße</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e016/016.mp3" length="34697709" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e016/016.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>16</itunes:episode>
+      <itunes:duration>19:46</itunes:duration>
+    </item>
+    <item>
+      <title>Die Suche nach dem richtigen Schwader</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e017/017.mp3" length="22221357" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e017/017.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>17</itunes:episode>
+      <itunes:duration>11:56</itunes:duration>
+    </item>
+    <item>
+      <title>Fanwache, Schwader und die Sache mit der Freizeit</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e018/018.mp3" length="26096277" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e018/018.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>18</itunes:episode>
+      <itunes:duration>14:57</itunes:duration>
+    </item>
+    <item>
+      <title>Agrarschau, Maibaum und fertig machen für den 1.Schnitt</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e019/019.mp3" length="32764221" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e019/019.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>19</itunes:episode>
+      <itunes:duration>18:35</itunes:duration>
+    </item>
+    <item>
+      <title>Regenwetter und das warten auf den 1.Schnitt</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e020/020.mp3" length="34302045" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e020/020.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>20</itunes:episode>
+      <itunes:duration>18:44</itunes:duration>
+    </item>
+    <item>
+      <title>1.Schnitt und Ersteinsatz vom Vierkreisel</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e021/021.mp3" length="35372661" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e021/021.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>21</itunes:episode>
+      <itunes:duration>19:46</itunes:duration>
+    </item>
+    <item>
+      <title>Heu, Mist, Weide, Maisacker</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e022/022.mp3" length="29451885" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e022/022.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>22</itunes:episode>
+      <itunes:duration>16:44</itunes:duration>
+    </item>
+    <item>
+      <title>Mais, Gülle, Regen</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e023/023.mp3" length="31695549" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e023/023.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>23</itunes:episode>
+      <itunes:duration>17:54</itunes:duration>
+    </item>
+    <item>
+      <title>Hackholz und Siloballen</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e024/024.mp3" length="37434669" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e024/024.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>24</itunes:episode>
+      <itunes:duration>19:40</itunes:duration>
+    </item>
+    <item>
+      <title>Heu, Silage, Mais hacken</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e025/025.mp3" length="36804861" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e025/025.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>25</itunes:episode>
+      <itunes:duration>20:10</itunes:duration>
+    </item>
+    <item>
+      <title>Heuarbeit und ein kaputter Johnny</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e026/026.mp3" length="34686285" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e026/026.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>26</itunes:episode>
+      <itunes:duration>18:39</itunes:duration>
+    </item>
+    <item>
+      <title>Grumet, Mais und Borkenkäfer</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e027/027.mp3" length="32561709" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e027/027.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>27</itunes:episode>
+      <itunes:duration>17:39</itunes:duration>
+    </item>
+    <item>
+      <title>Mais kaputt ... schon wieder alles umsonst？</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e028/028.mp3" length="23399085" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e028/028.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>28</itunes:episode>
+      <itunes:duration>12:51</itunes:duration>
+    </item>
+    <item>
+      <title>Lohnarbeit und Meistermais</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e029/029.mp3" length="33985869" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e029/029.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>29</itunes:episode>
+      <itunes:duration>17:38</itunes:duration>
+    </item>
+    <item>
+      <title>Regenwoche</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e030/030.mp3" length="28571997" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e030/030.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>30</itunes:episode>
+      <itunes:duration>15:03</itunes:duration>
+    </item>
+    <item>
+      <title>3.Schnitt, Gülle und ein kaputter Schwader</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e031/031.mp3" length="34520589" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e031/031.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>31</itunes:episode>
+      <itunes:duration>18:30</itunes:duration>
+    </item>
+    <item>
+      <title>Käfer, Brennholz, Weidepflege</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e032/032.mp3" length="27459021" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e032/032.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>32</itunes:episode>
+      <itunes:duration>14:06</itunes:duration>
+    </item>
+    <item>
+      <title>Endlich Sommer, endlich dreschen</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e033/033.mp3" length="32127405" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e033/033.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>33</itunes:episode>
+      <itunes:duration>17:52</itunes:duration>
+    </item>
+    <item>
+      <title>Grumet (3.Schnitt) und Stroh</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e034/034.mp3" length="33989109" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e034/034.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>34</itunes:episode>
+      <itunes:duration>19:04</itunes:duration>
+    </item>
+    <item>
+      <title>Rückeraupe und Rotationsgrader im Forst</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e035/035.mp3" length="26494989" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e035/035.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>35</itunes:episode>
+      <itunes:duration>14:04</itunes:duration>
+    </item>
+    <item>
+      <title>Ab in den Urlaub, mit dem Motorrad ans Nordkapp</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e036/036.mp3" length="25064013" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e036/036.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>36</itunes:episode>
+      <itunes:duration>14:03</itunes:duration>
+    </item>
+    <item>
+      <title>Karpfhamer Fest und Rottalschau</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e037/037.mp3" length="28201389" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e037/037.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>37</itunes:episode>
+      <itunes:duration>15:54</itunes:duration>
+    </item>
+    <item>
+      <title>4.Schnitt und allein daheim</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e038/038.mp3" length="38922189" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e038/038.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>38</itunes:episode>
+      <itunes:duration>20:57</itunes:duration>
+    </item>
+    <item>
+      <title>Gülle und andere Viechereien</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e039/039.mp3" length="28126029" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e039/039.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>39</itunes:episode>
+      <itunes:duration>15:07</itunes:duration>
+    </item>
+    <item>
+      <title>Oldtimerfest mit Full Pull</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e040/040.mp3" length="17961837" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e040/040.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>40</itunes:episode>
+      <itunes:duration>10:32</itunes:duration>
+    </item>
+    <item>
+      <title>Ziel Nordkap ….  auf Traumstraßen durch Südnorwegen</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e041/041.mp3" length="97778013" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e041/041.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>41</itunes:episode>
+      <itunes:duration>1:06:58</itunes:duration>
+    </item>
+    <item>
+      <title>Grumet und Meistermais</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e042/042.mp3" length="34378701" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e042/042.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>42</itunes:episode>
+      <itunes:duration>18:59</itunes:duration>
+    </item>
+    <item>
+      <title>Grubbern, säen, jagen, Bestandsaufnahme</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e043/043.mp3" length="33431277" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e043/043.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>43</itunes:episode>
+      <itunes:duration>17:13</itunes:duration>
+    </item>
+    <item>
+      <title>Meister-Mais, endlich häckseln</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e044/044.mp3" length="37326381" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e044/044.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>44</itunes:episode>
+      <itunes:duration>20:03</itunes:duration>
+    </item>
+    <item>
+      <title>Baustelle und die letzte Rasur</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e045/045.mp3" length="38201517" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e045/045.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>45</itunes:episode>
+      <itunes:duration>20:35</itunes:duration>
+    </item>
+    <item>
+      <title>＂Almabtrieb＂, Maisstoppeln und Ärger mit der Technik</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e046/046.mp3" length="30285261" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e046/046.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>46</itunes:episode>
+      <itunes:duration>16:30</itunes:duration>
+    </item>
+    <item>
+      <title>Hausmesse, Holzkunst, Herbstarbeiten</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e047/047.mp3" length="25171773" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e047/047.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>47</itunes:episode>
+      <itunes:duration>14:54</itunes:duration>
+    </item>
+    <item>
+      <title>Italien, Messe, Klauenpflege</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e048/048.mp3" length="27288669" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e048/048.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>48</itunes:episode>
+      <itunes:duration>15:29</itunes:duration>
+    </item>
+    <item>
+      <title>Agritechnica, Messe-Spezial</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e049/049.mp3" length="77150181" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e049/049.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>49</itunes:episode>
+      <itunes:duration>43:34</itunes:duration>
+    </item>
+    <item>
+      <title>Alles muss raus .... Saisonende</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e050/050.mp3" length="31513773" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e050/050.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>50</itunes:episode>
+      <itunes:duration>17:06</itunes:duration>
+    </item>
+    <item>
+      <title>Kirren, Füttern, Stallarbeit</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e051/051.mp3" length="32349549" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e051/051.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>51</itunes:episode>
+      <itunes:duration>17:14</itunes:duration>
+    </item>
+    <item>
+      <title>Wie geht es weiter, muss ich mich ändern？</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e052/052.mp3" length="19675101" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e052/052.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>52</itunes:episode>
+      <itunes:duration>10:31</itunes:duration>
+    </item>
+    <item>
+      <title>Käferholz im Winterwald</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e053/053.mp3" length="33048045" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e053/053.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>53</itunes:episode>
+      <itunes:duration>17:18</itunes:duration>
+    </item>
+    <item>
+      <title>Brennholz, Hackholz, Solar, Stromspeicher</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e054/054.mp3" length="33211917" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e054/054.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>54</itunes:episode>
+      <itunes:duration>17:24</itunes:duration>
+    </item>
+    <item>
+      <title>Schirmhieb über Naturverjüngung</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e055/055.mp3" length="36465357" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e055/055.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>55</itunes:episode>
+      <itunes:duration>18:57</itunes:duration>
+    </item>
+    <item>
+      <title>Robby eingefroren,  Forst und Schnee</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e056/056.mp3" length="20745021" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e056/056.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>56</itunes:episode>
+      <itunes:duration>10:48</itunes:duration>
+    </item>
+    <item>
+      <title>Windenfällung und gefrorener Scheiß</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e057/057.mp3" length="32289645" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e057/057.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>57</itunes:episode>
+      <itunes:duration>17:33</itunes:duration>
+    </item>
+    <item>
+      <title>Blitzeis, Roboterwartung und Spalten dicht</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e058/058.mp3" length="34079061" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e058/058.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>58</itunes:episode>
+      <itunes:duration>18:28</itunes:duration>
+    </item>
+    <item>
+      <title>Betriebsunfall, Chef außer Gefecht</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e059/059.mp3" length="3700221" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e059/059.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>59</itunes:episode>
+      <itunes:duration>1:57</itunes:duration>
+    </item>
+    <item>
+      <title>Meistermais und Gesundheitsupdate</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e060/060.mp3" length="32735949" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e060/060.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>60</itunes:episode>
+      <itunes:duration>17:41</itunes:duration>
+    </item>
+    <item>
+      <title>Harvester im Wald und was sonst noch los war.</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e061/061.mp3" length="26790309" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e061/061.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>61</itunes:episode>
+      <itunes:duration>14:01</itunes:duration>
+    </item>
+    <item>
+      <title>Regio Agrar Messe und die Sache mit der Fellpflege</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e062/062.mp3" length="27622701" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e062/062.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>62</itunes:episode>
+      <itunes:duration>14:30</itunes:duration>
+    </item>
+    <item>
+      <title>Holz raus, Hoffluencer und Probleme mit der Reinigung</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e063/063.mp3" length="35101389" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e063/063.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>63</itunes:episode>
+      <itunes:duration>18:51</itunes:duration>
+    </item>
+    <item>
+      <title>Gülle, PV und Ladertest</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e064/064.mp3" length="38521965" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e064/064.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>64</itunes:episode>
+      <itunes:duration>20:41</itunes:duration>
+    </item>
+    <item>
+      <title>Gülle, Winter und HVO</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e065/065.mp3" length="28206045" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e065/065.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>65</itunes:episode>
+      <itunes:duration>15:13</itunes:duration>
+    </item>
+    <item>
+      <title>... das Hirschlein anspannt.</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e066/066.mp3" length="30013869" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e066/066.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>66</itunes:episode>
+      <itunes:duration>16:33</itunes:duration>
+    </item>
+    <item>
+      <title>Wellness fürs Grünland</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e067/067.mp3" length="24037821" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e067/067.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>67</itunes:episode>
+      <itunes:duration>13:29</itunes:duration>
+    </item>
+    <item>
+      <title>Sommerweizen drillen</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e068/068.mp3" length="28658973" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e068/068.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>68</itunes:episode>
+      <itunes:duration>15:17</itunes:duration>
+    </item>
+    <item>
+      <title>Forst, Stall, Strohmehl</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e069/069.mp3" length="34070061" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e069/069.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>69</itunes:episode>
+      <itunes:duration>17:47</itunes:duration>
+    </item>
+    <item>
+      <title>Grubbern, Mist und Johnny reparieren</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e070/070.mp3" length="34054605" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e070/070.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>70</itunes:episode>
+      <itunes:duration>18:03</itunes:duration>
+    </item>
+    <item>
+      <title>Ackern, Schwader reparieren, Saatbeet bereiten</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e071/071.mp3" length="14448093" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e071/071.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>71</itunes:episode>
+      <itunes:duration>7:56</itunes:duration>
+    </item>
+    <item>
+      <title>Untersaat und 1.Schnitt</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e072/072.mp3" length="35417661" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e072/072.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>72</itunes:episode>
+      <itunes:duration>19:20</itunes:duration>
+    </item>
+    <item>
+      <title>Gülle, Mais und Unwetter</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e073/073.mp3" length="37387293" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e073/073.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>73</itunes:episode>
+      <itunes:duration>20:28</itunes:duration>
+    </item>
+    <item>
+      <title>Kühe, Zaunbau, Maisupdate</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e074/074.mp3" length="33648141" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e074/074.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>74</itunes:episode>
+      <itunes:duration>18:38</itunes:duration>
+    </item>
+    <item>
+      <title>Viecher raus, Hackholz rein</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e075/075.mp3" length="31457709" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e075/075.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 06:50:09 +0000</pubDate>
+      <itunes:episode>75</itunes:episode>
+      <itunes:duration>17:15</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
