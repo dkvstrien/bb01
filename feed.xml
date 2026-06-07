@@ -691,6 +691,24 @@
       <itunes:episode>75</itunes:episode>
       <itunes:duration>17:15</itunes:duration>
     </item>
+    <item>
+      <title>2026-05-31 — Heuernte und Kitzrettung</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e076/076.mp3" length="32750157" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e076/076.mp3</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <itunes:episode>76</itunes:episode>
+      <itunes:duration>17:27</itunes:duration>
+    </item>
+    <item>
+      <title>2026-06-07 — Heu, Mais, Ballensilage und der 2.Schnitt</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/dkvstrien/bb01/releases/download/bb-e077/077.mp3" length="35664237" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/bb01/releases/download/bb-e077/077.mp3</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:episode>77</itunes:episode>
+      <itunes:duration>19:35</itunes:duration>
+    </item>
 
   </channel>
 </rss>
